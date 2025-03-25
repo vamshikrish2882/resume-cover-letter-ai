@@ -1,4 +1,8 @@
 #  AI Resume & Cover Letter Generator
+[![Streamlit App](https://img.shields.io/badge/Live_App-Click_Here-brightgreen?logo=streamlit&style=flat)](https://resume-cover-letter-ai-6asqnj36zqc8kgp7kg6ku2.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 Generate personalized resume summaries and cover letters using **Generative AI (LLMs)** powered by **Together AI**.
 
