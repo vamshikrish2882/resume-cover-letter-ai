@@ -20,7 +20,7 @@ def generate_text(prompt):
         if 'choices' in response and len(response['choices']) > 0:
             return response['choices'][0]['text'].strip()
         else:
-            return "⚠️ No output received. Check prompt or model response format."
+            return " No output received. Check prompt or model response format."
 
     except Exception as e:
-        return f"❌ Error: {str(e)}"
+        return f" Error: {str(e)}"
