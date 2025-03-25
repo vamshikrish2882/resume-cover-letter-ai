@@ -9,6 +9,15 @@ Generate personalized resume summaries and cover letters using **Generative AI (
 This project helps job seekers quickly craft tailored application materials based on a job description and their own experience — all through a clean and interactive web app.
 
 ---
+##  Screenshots
+
+Here’s a look at the app in action:
+
+###  1. Enter Job Description and Experience
+![Input Form](screenshot1.png)
+
+###  2. Generated Resume Summary / Cover Letter
+![AI Output](screenshot2.png)
 
 ##  Features
 
